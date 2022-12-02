@@ -1,0 +1,44 @@
+#wrapper{
+    box-sizing: border-box;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+}
+body{
+margin: auto;
+background-color: gray;
+}
+header{
+    background-image: url(kek_eg.jpg);
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+#izzo{
+    color: yellow;
+}
+#motto{
+    margin-bottom: 0px;
+}
+ul{
+    margin: 0px;
+}
+h1{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: block;
+    display: inline;
+    padding: 50px;
+}
+nav{
+    background-color: blue;
+width: 50%;
+margin: auto;
+}
+#white{
+    color: white;
+}
